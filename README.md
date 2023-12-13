@@ -17,9 +17,9 @@ Sveiki! Šis ir mans solo izstrādātais eKomercijas projekts, kuram mērķis ir
 
 ## Izmantotās Tehnoloģijas
 - Back-end: C# .NET
- Front-end: React JS
+- Front-end: React JS
 - Stils: SASS
-  Datu Bāze: SQL (lokāli)
+ - Datu Bāze: SQL (lokāli)
 
 ## Palīdzība un Atbalsts
 - Ja jums ir kādas jautājumi vai ieteikumi, nekautrējieties sazināties ar mani. Es priecāšos dzirdēt no jums un turpināt uzlabot šo projektu kopā!
