@@ -1,0 +1,9 @@
+@import "./variables.scss";
+
+body {
+  margin: 0;
+  font-family: $Main-font;
+  color: $text;
+  height: 100vh;
+  background-color: $bg;
+}
