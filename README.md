@@ -24,6 +24,8 @@ Sveiki! Šis ir mans solo izstrādātais eKomercijas projekts, kuram mērķis ir
 ## Palīdzība un Atbalsts
 - Ja jums ir kādas jautājumi vai ieteikumi, nekautrējieties sazināties ar mani. Es priecāšos dzirdēt no jums un turpināt uzlabot šo projektu kopā!
 
+Backend ir pieejams : https://github.com/KrisstersJ/eCom-back-end
+
 Īss video ar mājaslapu : https://screenpal.com/watch/c0lIrJVmPEP
 
 Paldies par interesi par manu eKomercijas projektu! 🚀
